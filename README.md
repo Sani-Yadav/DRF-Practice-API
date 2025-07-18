@@ -1,10 +1,5 @@
 # 🚀 DRF-Practice-API
 
----
-http://127.0.0.1:8000/snippet-list/
-
----
-
 **Django REST Framework Practice Project** - Learn RESTful APIs, CRUD operations, and Token Authentication with a complete working example.
 
 ## 📋 Table of Contents
@@ -124,6 +119,9 @@ python manage.py runserver
 ```
 
 🎉 **Your API is now running at:** `http://127.0.0.1:8000/`
+---
+http://127.0.0.1:8000/snippet-list/
+---
 
 ## 📡 API Endpoints
 
